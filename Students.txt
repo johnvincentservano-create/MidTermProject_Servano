@@ -1,0 +1,97 @@
+[
+  {
+    "FirstName": "JohnVincent",
+    "MiddleInitial": "M",
+    "LastName": "Servano",
+    "BirthDate": "2007-04-30T00:00:00",
+    "Age": 18,
+    "Address": "brgy.toong",
+    "ContactNumber": "09096241732",
+    "Course": "bsit",
+    "YearLevel": 1,
+    "Subjects": [
+      {
+        "Id": "COMP 102IT",
+        "Name": "Computer Applications"
+      },
+      {
+        "Id": "IT 104A",
+        "Name": "Computer Programming 2, Lec."
+      },
+      {
+        "Id": "IT 104B",
+        "Name": "Computer Programming 2, Lab."
+      },
+      {
+        "Id": "IT 105A",
+        "Name": "Platform Technologies"
+      },
+      {
+        "Id": "IT 106A",
+        "Name": "IT Social and Professional Issues"
+      },
+      {
+        "Id": "GEC 103A",
+        "Name": "Understanding the Self"
+      },
+      {
+        "Id": "GEC 104A",
+        "Name": "Arts Appreciation"
+      },
+      {
+        "Id": "RZL 104A",
+        "Name": "Life and Works of Rizal"
+      },
+      {
+        "Id": "PE 102A",
+        "Name": "Physical Education 2"
+      },
+      {
+        "Id": "THEO 102A",
+        "Name": "Scriptures, the Sacraments and the Liturgy"
+      }
+    ],
+    "Grades": [
+      {
+        "SubjectId": "COMP 102IT",
+        "Score": 100
+      },
+      {
+        "SubjectId": "IT 104A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "IT 104B",
+        "Score": 100
+      },
+      {
+        "SubjectId": "IT 105A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "IT 106A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "GEC 103A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "GEC 104A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "RZL 104A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "PE 102A",
+        "Score": 100
+      },
+      {
+        "SubjectId": "THEO 102A",
+        "Score": 100
+      }
+    ]
+  }
+]
